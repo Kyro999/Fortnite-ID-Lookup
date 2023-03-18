@@ -1,0 +1,16 @@
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\Fortnite ID Finder.csproj.AssemblyReference.cache
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\Fortnite ID Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\Fortnite ID Finder.AssemblyInfoInputs.cache
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\Fortnite ID Finder.AssemblyInfo.cs
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\Fortnite ID Finder.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\bin\Debug\net7.0\Fortnite ID Finder.exe
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\bin\Debug\net7.0\Fortnite ID Finder.deps.json
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\bin\Debug\net7.0\Fortnite ID Finder.runtimeconfig.json
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\bin\Debug\net7.0\Fortnite ID Finder.dll
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\bin\Debug\net7.0\Fortnite ID Finder.pdb
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\Fortnite ID Finder.dll
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\refint\Fortnite ID Finder.dll
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\Fortnite ID Finder.pdb
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\Fortnite ID Finder.genruntimeconfig.cache
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\ref\Fortnite ID Finder.dll
+C:\Users\Calvin\source\repos\Fortnite ID Finder\Fortnite ID Finder\obj\Debug\net7.0\Fortnite ID Finder.csproj.Fody.CopyLocal.cache
